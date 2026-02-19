@@ -1,2 +1,2 @@
 # This is a readme file
-This is new line2
+This is new sentence
